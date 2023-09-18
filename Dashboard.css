@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 14px;
+}
+.sidebar, .sidebar2{
+    width: 200px;
+    background-color: #2F2F31;
+    height: 680px;
+    position: fixed;
+}
+#search{
+    background-color: #4D4E50;
+    padding: 10px;
+}
+.section1{
+    display: grid;
+    grid-template-columns: 17% 67% 17%;
+    margin-left: -30px;
+}
+.section3{
+    height: 500px;  
+}
+.Menu ul li:nth-child(3)
+{
+    position: absolute;
+    right: 70px;
+}
+
+.card-header{
+    background-color: #F4E6C4;
+}
+
+.search{
+    height: 120px;
+}
+
+.card1{
+    margin-left: 90px;
+}
+
+.bt1{
+    height: 30px;
+}
+
+.Sale{
+    height: 450px;
+    
+}
+
+.news{
+    margin-top: -35px;
+}
+
+.Num{
+    width: 20px;
+    height: 20px;
+    border: 1px solid darkgray;
+}
